@@ -1,7 +1,8 @@
 package com.example.a10850.recyclerviewdemo;
 
 import android.content.Context;
-import android.support.v7.widget.LinearSmoothScroller;
+
+import androidx.recyclerview.widget.LinearSmoothScroller;
 
 /***
  * 创建时间：2020/2/7 20:20

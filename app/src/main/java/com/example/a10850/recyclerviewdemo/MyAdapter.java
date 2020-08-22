@@ -1,8 +1,6 @@
 package com.example.a10850.recyclerviewdemo;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,7 +8,9 @@ import android.widget.FrameLayout;
 import android.widget.TextView;
 
 import java.util.List;
-import java.util.Random;
+
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
 
 /***
  * 创建时间：2019/6/3 
