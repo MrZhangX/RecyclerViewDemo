@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Add" />
+    <item
+        android:id="@+id/delete"
+        android:icon="@mipmap/ic_launcher"
+        android:title="delete" />
+
+
+    <item
+        android:id="@+id/rvmenu1"
+        android:icon="@mipmap/ic_launcher"
+        android:title="scrollToPosition" />
+
+    <item
+        android:id="@+id/rvmenu2"
+        android:icon="@mipmap/ic_launcher"
+        android:title="scrollToPositionWithOffset" />
+
+    <item
+        android:id="@+id/rvmenu3"
+        android:icon="@mipmap/ic_launcher"
+        android:title="smoothScrollToPosition" />
+
+    <item
+        android:id="@+id/rvmenu4"
+        android:icon="@mipmap/ic_launcher"
+        android:title="other" />
+
+    <item
+        android:id="@+id/rvmenu5"
+        android:icon="@mipmap/ic_launcher"
+        android:title="custom" />
+</menu>
